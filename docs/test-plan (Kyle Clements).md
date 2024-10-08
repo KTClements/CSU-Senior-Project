@@ -104,5 +104,5 @@ User acceptance testing will be conducted to verify that the software meets user
 
 ## Appendix
 
-- [Project Proposal](#)
-- [Requirements Document](#https://github.com/KTClements/CSU-Senior-Project/blob/0dd8ef22b01a3bf9938bb4416ff5044b65439d13/docs/Requirements%20Document%20(Kyle%20Clements).pdf)
+- [Project Proposal](https://github.com/KTClements/CSU-Senior-Project/blob/c0ed972d6b85b11a94c032435afdf2e0f1987cbd/docs/Final%20Proposal%20(Kyle%20Clements).md)
+- [Requirements Document](https://github.com/KTClements/CSU-Senior-Project/blob/0dd8ef22b01a3bf9938bb4416ff5044b65439d13/docs/Requirements%20Document%20(Kyle%20Clements).pdf)
