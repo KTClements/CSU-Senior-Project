@@ -110,9 +110,9 @@ User acceptance testing will be conducted to verify that the software meets user
 
 | #   | TEST ITEM                           | EXPECTED RESULTS                          | ACTUAL RESULTS                    | DATE                           |
 | --- | ----------------------------------- | ---------------------------------------- | -------------------------------- | ----------------------------- |
-| 1   | Batch resize functionality         | All images resized as specified          | Successfully passed              | [To be filled during testing] |
-| 2   | Image format conversion            | Images correctly converted               | Successfully passed              | [To be filled during testing] |
-| 3   | Auto white balance functionality   | Image colors balanced correctly          | Successfully passed              | [To be filled during testing] |
+| 1   | Batch resize functionality         | All images resized as specified          | Successfully passed              | November 25th, 2024 |
+| 2   | Image format conversion            | Images correctly converted               | Successfully passed              | November 25th, 2024 |
+| 3   | Auto white balance functionality   | Image colors balanced correctly          | Successfully passed              | November 25th, 2024 |
 
 ## Appendix
 
